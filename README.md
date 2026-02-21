@@ -30,32 +30,13 @@ I am always tinkering. Here is what is currently cooking in my local environment
 * **The Vision:** A dynamic, intelligent agent that doesn't just give you a list of places to visit, but actually plans your itinerary based on real-time constraints, budget, and preferences.
 * **The Stack:** Powered by LangGraph for multi-agent routing, with a FastAPI backend. It features a custom authentication system with 8-digit secure SMTP email verification to deliver the final travel plans straight to the user's inbox.
 
-**2. AI Writing Coach**
-* **The Vision:** An intelligent application designed to analyze text, provide contextual feedback, and elevate the user's writing style.
-* **The Stack:** A responsive React frontend communicating with a high-performance FastAPI backend, all tied together by the reasoning power of the Gemini API.
-
-**3. Interactive Portfolio**
-* **The Vision:** A living, breathing showcase of my work, experiments, and technical articles.
-* **The Stack:** Built purely with Python using Streamlit for rapid, data-driven UI deployment.
-
----
-
-## 🥋 Beyond the IDE
-
-I firmly believe that the best developers have lives and passions outside of their code editor. When my terminal is closed, here is what I'm up to:
-
-* **Lifting & Nutrition:** I treat physical health like optimizing a codebase. I'm currently focused on a strict diet and training regimen designed for lean muscle growth and overall skin/body health. A healthy body builds a sharper mind.
-* **3D Sculpting & Modeling:** I love bringing imagination into the visual realm. I spend time in ZBrush, sculpting detailed character models and figurines. It's the perfect creative counterbalance to writing logic.
-* **Anime:** Huge fan of *Naruto*. The storytelling, the world-building, and the character arcs (especially the legends like Minato and Fugaku) are top-tier. It’s always a great way to decompress after a long coding session.
-
----
 
 ## 🤝 Let's Connect
 
 I'm always open to discussing new projects, exploring Agentic AI architectures, or just debating the best arc in Naruto. 
 
-* **Email:** [Insert your email address here]
+* **Email:** [kumarsumith98765@gmail.com]
 * **LinkedIn:** [linkedin.com/in/tamminana-sumith-kumar](https://linkedin.com/in/tamminana-sumith-kumar)
-* **Portfolio:** [Insert your Streamlit app link here]
+* **Portfolio:** [https://sumithkumar765.github.io/portfolio-website/]
 
 > *"Knowledge is power, but execution is the game."* Let's build something incredible together. 🚀
