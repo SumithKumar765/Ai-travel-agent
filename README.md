@@ -36,7 +36,7 @@ I am always tinkering. Here is what is currently cooking in my local environment
 I'm always open to discussing new projects, exploring Agentic AI architectures, or just debating the best arc in Naruto. 
 
 * **Email:** [kumarsumith98765@gmail.com]
-* **LinkedIn:** [linkedin.com/in/tamminana-sumith-kumar](https://linkedin.com/in/tamminana-sumith-kumar)
+* **LinkedIn:** [linkedin.com/in/tamminana-sumith-kumar](https://www.linkedin.com/in/tamminana-sumith-kumar-472283233/)
 * **Portfolio:** [https://sumithkumar765.github.io/portfolio-website/]
 
 > *"Knowledge is power, but execution is the game."* Let's build something incredible together. 🚀
